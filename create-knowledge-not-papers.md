@@ -101,7 +101,7 @@ A general problem with academic research is that it is done by small research la
 # How should we view researchers who don't publish?
 * These researchers spent 5-8 years doing research and made no contribution to science.
   * Why were they awarded a doctorate?
-* Using journal articles as the sole method of conveying knowledge and measuring researcher contributions is flawed & inequitable.
+* **OR** Using journal articles as the sole method of conveying knowledge and measuring researcher contributions is flawed & inequitable.
 
 ---
 # Inequality of journal publications by gender
@@ -140,7 +140,7 @@ A general problem with academic research is that it is done by small research la
 
 ---
 # Jupyter as a structure for training AI
-[![width:500](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBEKEp1cHl0ZXIgRGVzY3JpcHRpb24pIC0tPiBDKEp1cHl0ZXIgQ29kZSkgLS0-IFIoSnVweXRlciBSZXN1bHQpXG4gICAgRCAtLSBCZWNvbWVzIC0tPiBQcm9tcHRbQUkgUHJvbXB0XVxuICAgIEMgLS0gQmVjb21lcyAtLT4gQW5zd2VyW0FJIEFuc3dlcl1cbiAgICBSIC0tIEJlY29tZXMgLS0-IFZhbGlkYXRpb24iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBEKEp1cHl0ZXIgRGVzY3JpcHRpb24pIC0tPiBDKEp1cHl0ZXIgQ29kZSkgLS0-IFIoSnVweXRlciBSZXN1bHQpXG4gICAgRCAtLSBCZWNvbWVzIC0tPiBQcm9tcHRbQUkgUHJvbXB0XVxuICAgIEMgLS0gQmVjb21lcyAtLT4gQW5zd2VyW0FJIEFuc3dlcl1cbiAgICBSIC0tIEJlY29tZXMgLS0-IFZhbGlkYXRpb24iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
+![width:500](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/images/mermaid-diagram-jupyter-2-ai.png)
 
 ---
 # Get in early
@@ -151,7 +151,7 @@ A general problem with academic research is that it is done by small research la
 4. Generate additional knowledge
 5. Repeate step 1
 
-![bg right:33%](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/mermaid-diagram-20221213112959.png)
+![bg right:33%](https://github.com/pbilling/create-knowledge-not-papers/blob/main/images/mermaid-diagram-kb-ai-feedback-loop.png)
 
 ---
 # How can I generate value from an AI?
@@ -160,7 +160,7 @@ Show 'em. [DRAWING TIME]
 
 ---
 # How can I generate value from an AI?
-![Four quadrant plot showing the maximum value of AI can be obtained from teaching it how to perform simple/tedious tasks and the least value from complex/novel ones.](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/ai-value-plot.png)
+![Four quadrant plot showing the maximum value of AI can be obtained from teaching it how to perform simple/tedious tasks and the least value from complex/novel ones.](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/images/ai-value-plot.png)
 
 ---
 # What am I going to use an AI language model for?
@@ -181,4 +181,4 @@ Show 'em. [DRAWING TIME]
 
 ---
 # Model for building a knowledge base
-![knowledge base width:900](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/mermaid-diagram-kb-model-2.png)
+![knowledge base width:900](https://raw.githubusercontent.com/pbilling/create-knowledge-not-papers/main/images/mermaid-diagram-kb-model.png)
